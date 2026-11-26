@@ -1,6 +1,7 @@
 Title: The Last operative
 Date: 2026-05-09
 Tags: AI
+Category: Short stories
 
 I ended up doing a deep dive into some of the brilliant works of Westwood these
 days owned by EA and got inspired together with an AI to discuss what could be
