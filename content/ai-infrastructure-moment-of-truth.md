@@ -1,6 +1,6 @@
 Title: The AI Infrastructure Moment of Truth
 Date: 2026-11-26
-Category: AI Economics
+Category: Analysis
 Tags: ai, infrastructure, debt, finance, capex, competition
 Summary: A framework for analysing AI infrastructure through maintenance capex, refinancing requirements, and long-term global competition rather than AI demand alone.
 
