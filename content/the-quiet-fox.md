@@ -1,6 +1,7 @@
 Title: The Quiet Fox
 Date: 2026-10-24
 Tags: AI
+Category: Short stories
 
 The fox woke before dawn and immediately knew something was wrong.
 
