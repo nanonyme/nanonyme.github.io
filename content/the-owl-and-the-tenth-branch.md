@@ -1,6 +1,7 @@
 Title: The Owl and the Tenth Branch
 Date: 2026-11-08
 Tags: AI
+Category: Short stories
 
 In the oldest part of the forest, where the trees grew so tall that even sunlight seemed to get lost on its way down, lived an owl named Alder.
 
